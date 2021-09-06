@@ -1,0 +1,10 @@
+Received: from david-VirtualBox [127.0.0.1] by localhost with SMTP for test@localhost; Sun, 05 Sep 2021 23:51:31 -0600
+Content-Type: text/plain; charset="us-ascii"
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+Title: This is my title
+From: davidvalverde99@gmail.com
+To: test@localhost, david@localhost, david@example.com, natan@localhost.com,
+ moraga@example.com, user@encora.com
+
+This is the message
